@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./app-Dg140aSr.js";const r={};function o(a,c){return n(),t("div")}const i=e(r,[["render",o]]),m=JSON.parse('{"path":"/investmentLog/2026.html","title":"2026","lang":"zh-CN","frontmatter":{"order":1},"git":{},"readingTime":{"minutes":0.01,"words":4},"filePathRelative":"investmentLog/2026.md","excerpt":""}');export{i as comp,m as data};
