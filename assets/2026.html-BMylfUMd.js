@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n}from"./app-BfohRQ9C.js";const o={};function r(a,c){return n(),e("div")}const i=t(o,[["render",r]]),m=JSON.parse('{"path":"/investmentLog/2026.html","title":"2026投资日志","lang":"zh-CN","frontmatter":{"title":"2026投资日志"},"git":{},"readingTime":{"minutes":0.02,"words":6},"filePathRelative":"investmentLog/2026.md","excerpt":""}');export{i as comp,m as data};
